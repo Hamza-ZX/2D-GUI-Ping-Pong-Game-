@@ -22,4 +22,4 @@ Welcome to **Cyber Neon Ping Pong**, a visually stunning 2D Ping Pong game that 
 To play the game on your local machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cyber-neon-ping-pong.git
+   git clone https://github.com/Hamza-ZX/cyber-neon-ping-pong.git
