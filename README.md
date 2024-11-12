@@ -27,4 +27,4 @@ To play the game on your local machine:
 ## Download the game here:
 Click on my googledrive to download it
    ```bash
-      https://drive.google.com/file/d/1YPZgg3c6IrDGaZ-DXJGvFXkAWz8t6Fxe/view?usp=drive_link
+    https://drive.google.com/file/d/1YPZgg3c6IrDGaZ-DXJGvFXkAWz8t6Fxe/view?usp=drive_link
